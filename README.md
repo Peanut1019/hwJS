@@ -2,7 +2,7 @@
 # Overview
 
 To further my learning, I intend to learn about as many programming languages as possible.
-This is simple Javascript that displays "Hi, y'all!" when it is run.
+This is simple Javascript that displays "Hello World!" when the button is pressed.
 My purpose for making this software is to show that I am knowledgeable of basic Javascript.
 
 # Development Environment
